@@ -1,0 +1,7 @@
+Start GPL Test!
+Borev old:0x46
+Borev new:0x62
+HW 1KFlash CRC16 Value:0x631C; Time:101
+SW 1KFlash CRC16 Value:0x631C; Time:31597
+HW TestBuf[15] CRC16 Value:0x4EB4; Time:120
+Soft TestBuf[15] CRC16 Value:0x4EB4; Time:494
